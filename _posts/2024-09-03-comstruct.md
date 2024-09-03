@@ -77,5 +77,5 @@ categories: "컴퓨터구조"
   <li>Application binary interface(ABI): 
   The ISA + System software interface
   <ul>
-    <li style="font-size:15px;">오래된 hw, 새로운 sw는 호환되지 않음(forward compatibility). 역(backward compatibility)은 성립. 오래된 hw의 Instruction set의 범위가 새로운 sw를 커버할 수 없음. Instruction set은 hw가 업그레이드 될때마다 수정되는 것이 아닌, 기존의 것에 추가로 더해짐.</li>
+    <li style="font-size:15px;">오래된 hw, 새로운 sw는 호환되지 않음(forward compatibility). 반대로, 새로운 hw, 오래된 sw는 호환가능(backward compatibility). 오래된 hw의 Instruction set의 범위가 새로운 sw를 커버할 수 없음. Instruction set은 hw가 업그레이드 될때마다 수정되는 것이 아닌, 기존의 것에 추가로 더해짐.</li>
 </ul>
