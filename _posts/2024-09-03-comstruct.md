@@ -7,7 +7,7 @@ categories: "컴퓨터구조"
 ## Classes of Computers
 
 <ol>
-  <li>Personal computers</li>
+  <li>Personal computersㄹ</li>
   <ul>
     <li style="font-size:15px;">범용적으로 사용,다양한 소프트웨어</li>
     <li style="font-size:15px;">가격, 성능은 반비례관계(가성비 고려)</li>
