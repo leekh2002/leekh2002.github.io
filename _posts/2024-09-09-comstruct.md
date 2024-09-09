@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Computer Abstractions & Technology-1"
+title: "Computer Abstractions & Technology-2"
 categories: "컴퓨터구조"
 ---
 
